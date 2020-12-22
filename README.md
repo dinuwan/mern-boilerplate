@@ -15,3 +15,5 @@ Start the server:
 ```
 npm run dev
 ```
+
+**Important:** Make sure to add the config.env file to .gitignore.
